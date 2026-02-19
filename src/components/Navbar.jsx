@@ -44,7 +44,7 @@ const Navbar = () => {
                 }}>
                     <Wallet size={24} />
                 </div>
-                <span style={{ fontSize: '24px', fontWeight: '700', color: 'var(--text-main)' }}>FinSet</span>
+                <span style={{ fontSize: '24px', fontWeight: '700', color: 'var(--text-main)' }}>Finova</span>
             </Link>
 
             <div style={{ display: 'flex', alignItems: 'center', gap: '20px' }}>
